@@ -1,0 +1,15 @@
+mysql> source.sql
+    -> source test.sql
+    -> clear
+    -> 
+    -> notee
+    -> mysql> source test.sql
+    -> 
+    -> 
+    -> 
+    -> 
+    -> 
+    -> 
+    -> 
+    -> Terminal close -- exit!
+Aborted
